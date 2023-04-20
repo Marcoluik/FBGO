@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "873312834047",
+    "project_id": "fbgo-1a679",
+    "storage_bucket": "fbgo-1a679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873312834047:android:21e11b2a21dc5201cd57ca",
+        "android_client_info": {
+          "package_name": "com.mycompany.fbgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873312834047-5vv6vbscl4d4rf0g3jgfnk4953fi6bfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.fbgo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "873312834047-04h0a2bvj1l2b4vhh7onoq1gb1js6r6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANq9pXeWVedEzb4_0jZ0BGotsD7JRrxlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873312834047-04h0a2bvj1l2b4vhh7onoq1gb1js6r6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873312834047-o8818fa1ds83n5s214ncokfkgcao5gsu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.fbgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
